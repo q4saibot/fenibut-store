@@ -1,0 +1,2 @@
+# fenibut-store
+fenibut.store

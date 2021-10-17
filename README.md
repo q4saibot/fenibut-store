@@ -1,2 +1,2 @@
-# fenibut-store
-fenibut.store
+# WordPress
+WordPress
